@@ -1,0 +1,5 @@
+Kuznecov|Andrey|Andreevich|23.10.2003|2023|IKB|KB-2|BBBO-02-23|123456|male|1|math|4|programming|5|economics|4|linal|4|phisics|4|fizra|4|informatika|4|russian|4|oib|4|history|4|
+Kuznecov|Andrey|Andreevich|23.10.2003|2023|IKB|KB-2|BBBO-02-23|123456|male|2|math|5|programming|5|economics|4|linal|4|phisics|4|fizra|4|informatika|4|russian|4|oib|4|history|4|
+Deev|Egor|Igorevich|23.10.2003|2023|IKB|KB-2|BBBO-02-23|123455|male|1|math|4|programming|5|economics|4|linal|4|phisics|4|fizra|4|informatika|4|russian|4|oib|4|history|4|
+Ivanov|Ivan|Ivanovich|23.01.2006|2023|IKB|KB-11|BASO-01-23|098765|male|0|math|4|null|0|null|0|null|0|null|0|null|0|null|0|null|0|null|0|null|0|
+Petrov|Petr|Petrovich|04.05.2002|2022|FKN|PP|KNPO-01-22|091283|female|1|math|4|programming|5|russian|4|fizra|3|phsics|5|linal|4|economis|5|informatika|4|oib|3|histoory|3|
